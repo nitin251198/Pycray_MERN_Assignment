@@ -1,0 +1,12 @@
+ 
+# Node.js
+node_modules/
+
+# macOS
+.DS_Store
+
+# IDE files
+.vscode/
+.idea/
+
+# Other files or directories you want to ignore
